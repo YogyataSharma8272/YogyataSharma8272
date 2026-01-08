@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yogyata Sharma</h1>
+<h3 >🎓 I'm currently a 4rd-year B.Tech Computer Science student at [Mangalmay Institute of Engineering and Technology, Greater Noida](https://www.mangalmayinstitute.com/), affiliated with AKTU, Lucknow.
+</h3>
 <h3 align="center">A passionate full Stack developer from India</h3>
+
 
 - 🔭 I’m currently working on [Prakriti - Seva](https://prakriti-seva-the-eco-dharmik-platf.vercel.app/)
 
