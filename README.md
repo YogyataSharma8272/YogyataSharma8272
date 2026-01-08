@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yogyata Sharma</h1>
-🎓 I'm currently a 4rd-year B.Tech Computer Science student at [Mangalmay Institute of Engineering and Technology, Greater Noida](https://www.mangalmayinstitute.com/), affiliated with AKTU, Lucknow.
+🎓 I'm currently a 4th-year B.Tech Computer Science student at [Mangalmay Institute of Engineering and Technology, Greater Noida](https://www.mangalmayinstitute.com/), affiliated with AKTU, Lucknow.
 
 💻 Passionate about web development, software engineering, and building impactful projects. Always learning and exploring new technologies.
 
