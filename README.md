@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Prakriti - Seva](https://prakriti-seva-the-eco-dharmik-platf.vercel.app/)
 
-- 🌱 I’m currently learning **MongoDB , Express.js , React.js , Node.js , SQL , Word Press**
+- 🌱 I’m currently learning **MongoDB , Express.js , React.js , Node.js , SQL , Word Press , java**
 
 - 💬 Ask me about **react , next**
 
